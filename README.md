@@ -149,10 +149,3 @@ Please note that the inference pipeline is different for Task 1 and Task 2, be s
 This will trigger the `stitch_image` and `stitch_image_own` functions.
 
 - Images found in the `run/` and `own_results` directory will be stitched together and saved separately, producing two stitched images. We have two functions for redundancy purposes. In case one fails, the other can still run.
-
-# Related Repositories
-
-* [Website](https://github.com/pyesonekyaw/MDP-Showcase)
-* [Simulator](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Simulator)
-* [Raspberry Pi](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-RaspberryPi)
-* [Image Recognition](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-ImageRecognition)
